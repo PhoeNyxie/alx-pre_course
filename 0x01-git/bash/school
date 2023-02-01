@@ -1,1 +1,2 @@
-school
+ #!/bin/bashh
+echo "The school is open" 
